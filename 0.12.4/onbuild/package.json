@@ -1,0 +1,11 @@
+{
+  "name": "node-development",
+  "version": "0.1.0",
+  "description": "Node.js development container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "School Improvement Network",
+  "license": "(c) Copyright School Improvement Network"
+}
