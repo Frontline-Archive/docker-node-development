@@ -3,8 +3,8 @@ Creates docker containers based on the official Docker version of [Node.js](http
 
 Supported tags and respective `Dockerfile` links
 
-- `0.10.38-onbuild` `latest` [(0.10.38/onbuild/Dockerfile)](https://github.com/School-Improvement-Network/node-development/blob/master/0.10.38/onbuild/Dockerfile)
-- `0.12.4-onbuild` `latest` [(0.12.4/onbuild/Dockerfile)](https://github.com/School-Improvement-Network/node-development/blob/master/0.12.4/onbuild/Dockerfile)
+- `0.10.38-onbuild` `latest` [(0.10.38/onbuild/Dockerfile)](https://github.com/School-Improvement-Network/docker-node-development/blob/master/0.10.38/onbuild/Dockerfile)
+- `0.12.4-onbuild` `latest` [(0.12.4/onbuild/Dockerfile)](https://github.com/School-Improvement-Network/docker-node-development/blob/master/0.12.4/onbuild/Dockerfile)
 
 ## Usage
 
